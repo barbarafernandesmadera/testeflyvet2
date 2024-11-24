@@ -1,0 +1,28 @@
+// Base color
+$primary-color: #1e3a8a; // Azul Principal
+$secondary-color: #2563eb; // Azul mais claro
+$on-primary: white; // Cor do texto sobre o fundo azul
+
+// Lighter shades
+$primary-lightest: #e0f2ff; // Azul bem claro
+$primary-lighter: #93c5fd; // Azul mais suave
+$primary-light: #60a5fa; // Azul médio claro
+
+// Darker shades
+$primary-dark: #1d4ed8; // Azul mais escuro
+$primary-darker: #1e3a8a; // Azul ainda mais escuro
+$primary-darkest: #1e2a47; // Azul muito escuro
+
+// Accent colors (para botões ou detalhes)
+$accent-light: #63b3ed; // Azul claro de destaque
+$accent-dark: #1e40af; // Azul escuro de destaque
+
+// Neutrals (para contrastes e equilíbrio)
+$neutral-light: #f4f4f4; // Usado para fundos e áreas de respiro
+$neutral-medium: #d6d8d5; // Usado para bordas e divisores
+$neutral-dark: #3a3a3a; // Para texto escuro em fundos claros
+
+// Opacity variations
+$primary-opacity-80: rgba($primary-color, 0.8); // Azul com 80% de opacidade
+$primary-opacity-60: rgba($primary-color, 0.6); // Azul com 60% de opacidade
+$primary-opacity-40: rgba($primary-color, 0.4); // Azul com 40% de opacidade
